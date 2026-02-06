@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @normandocarvalho. 
 - 📖 I have M.Sc. in Computer Science (Software Engineering) at Universidade Federal de Campina Grande - UFCG.
-- 👀 I’m interested in software development and project management.
+- 👀 I’m interested in software development and AI engineering.
 - 🌱 I’m currently learning new things like Data Science, Machine Learning, and other Software Development Languages.
 - 📫 How to reach me, normandocarvalho@gmail.com
 
